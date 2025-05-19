@@ -49,7 +49,7 @@ La documentation sera automatiquement mise à jour avec les dernières modificat
 
 ## 🚀 Lancer le projet en local
 
-### ♻️ Option 1 : Avec Docker (recommandé ✅)
+### ♻️ Étape 1 : Docker
 
 1. Cloner le repo
 
@@ -69,7 +69,7 @@ docker-compose up -d
   - Email : admin@mealplanner.dev
   - Mot de passe : admin
 
-### 🧪 Option 2 : Installation manuelle
+### 🧪 Étape 2 : Installation
 
 #### Backend (NestJS + Prisma)
 
